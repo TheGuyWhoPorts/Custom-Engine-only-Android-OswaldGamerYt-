@@ -1,22 +1,50 @@
 {
-	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
+	"storyName": "tuffy and elastic guy",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "house",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-	
-	"weekCharacters": [
-		"mom",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
-	"weekBefore": "week3",
-	"weekName": "Week 4",
 	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Come-for-revenge",
+			"tuffy",
+			[
+				246,
+				160,
+				0
+			]
+		],
+		[
+			"reburning",
+			"tuffy-2",
+			[
+				206,
+				100,
+				0
+			]
+		],
+		[
+			"none-of-all",
+			"DOI-Jerry",
+			[
+				126,
+				0,
+				33
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
 }

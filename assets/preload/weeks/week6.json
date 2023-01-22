@@ -1,22 +1,59 @@
 {
-	"songs": [
-		["Senpai", "senpai-pixel", [255, 120, 191]],
-		["Roses", "senpai-pixel", [255, 120, 191]],
-		["Thorns", "spirit-pixel", [255, 120, 191]]
+	"storyName": "scary and covers",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "house",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"senpai",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "school",
-
-	"storyName": "hating simulator ft. moawling",
-	"weekBefore": "week5",
-	"weekName": "Week 6",
 	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"invade",
+			"alien-mouse",
+			[
+				246,
+				160,
+				0
+			]
+		],
+		[
+			"soul-chance",
+			"lighting",
+			[
+				246,
+				160,
+				0
+			]
+		],
+		[
+			"kaboom",
+			"mc-tom",
+			[
+				206,
+				100,
+				0
+			]
+		],
+		[
+			"triple-trouble",
+			"butch",
+			[
+				126,
+				0,
+				33
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
 }
